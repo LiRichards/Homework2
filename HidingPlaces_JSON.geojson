@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "HidingPlaces_JSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.050289198418696, 35.91131367523051 ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.050256972618627, 35.911531344008331 ] ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.050972284616265, 35.912194020196672 ] ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.05415699906662, 35.912203953849279 ] ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.04883652533843, 35.912154817877401 ] ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.050487312830114, 35.913715768380953 ] ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.049205229143681, 35.914367286437333 ] ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.047438734087464, 35.911499936594907 ] ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.0513173651225, 35.911574410037538 ] ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.049697330648243, 35.914950032363748 ] ] } },
+{ "type": "Feature", "properties": { "id": 10 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.049274719640479, 35.913017101821872 ] ] } },
+{ "type": "Feature", "properties": { "id": 11 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.049833736130566, 35.909781883693078 ] ] } },
+{ "type": "Feature", "properties": { "id": 12 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.053377179822448, 35.912051192190056 ] ] } }
+]
+}
